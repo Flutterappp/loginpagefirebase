@@ -1,6 +1,7 @@
 # loginpagefirebase
 
 A new Flutter project.
+This is Only Frontend the backend use firebase
 
 ## Getting Started
 
